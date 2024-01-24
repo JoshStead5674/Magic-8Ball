@@ -1,5 +1,7 @@
 # Magic-8Ball
 Documentation and code for magic 8ball project
+
+
 add random to program 
 
 variables: userChoice (decision from the menu) 
